@@ -55,7 +55,7 @@ sudo chmod a+rx /usr/local/bin/yt-dlp
 sudo apt install ffmpeg
 ```
 #### Ink-Free Font (optional but recommended):
-Download the font from here: [Ink-Free](https://www.dafontfree.co/wp-content/uploads/2022/02/Ink-Free-Font.zip)
+Download the font from here: [Ink-Free](https://www.dafontfree.co/download/ink-free/?ind=1690914364498&filename=Ink-Free-Font.zip&wpdmdl=124225&refresh=667d592da497d1719490861)
 
 Open Terminal and paste:
 ```
